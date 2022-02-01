@@ -1,0 +1,14 @@
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\PbserverDesignPattern\bin\Debug\net6.0\PbserverDesignPattern.exe
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\PbserverDesignPattern\bin\Debug\net6.0\PbserverDesignPattern.deps.json
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\PbserverDesignPattern\bin\Debug\net6.0\PbserverDesignPattern.runtimeconfig.json
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\PbserverDesignPattern\bin\Debug\net6.0\PbserverDesignPattern.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\PbserverDesignPattern\bin\Debug\net6.0\ref\PbserverDesignPattern.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\PbserverDesignPattern\bin\Debug\net6.0\PbserverDesignPattern.pdb
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\PbserverDesignPattern\obj\Debug\net6.0\PbserverDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\PbserverDesignPattern\obj\Debug\net6.0\PbserverDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\PbserverDesignPattern\obj\Debug\net6.0\PbserverDesignPattern.AssemblyInfo.cs
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\PbserverDesignPattern\obj\Debug\net6.0\PbserverDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\PbserverDesignPattern\obj\Debug\net6.0\PbserverDesignPattern.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\PbserverDesignPattern\obj\Debug\net6.0\ref\PbserverDesignPattern.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\PbserverDesignPattern\obj\Debug\net6.0\PbserverDesignPattern.pdb
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\PbserverDesignPattern\obj\Debug\net6.0\PbserverDesignPattern.genruntimeconfig.cache

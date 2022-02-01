@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "60e7968b-750d-46d4-9462-7b842583fe97": {
+      "ProjectGuid": "60e7968b-750d-46d4-9462-7b842583fe97",
+      "DisplayName": "BuilderDesignPattern",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

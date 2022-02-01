@@ -1,0 +1,15 @@
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\PrototypeDesignPattern\bin\Debug\net6.0\PrototypeDesignPattern.exe
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\PrototypeDesignPattern\bin\Debug\net6.0\PrototypeDesignPattern.deps.json
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\PrototypeDesignPattern\bin\Debug\net6.0\PrototypeDesignPattern.runtimeconfig.json
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\PrototypeDesignPattern\bin\Debug\net6.0\PrototypeDesignPattern.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\PrototypeDesignPattern\bin\Debug\net6.0\ref\PrototypeDesignPattern.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\PrototypeDesignPattern\bin\Debug\net6.0\PrototypeDesignPattern.pdb
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\PrototypeDesignPattern\obj\Debug\net6.0\PrototypeDesignPattern.csproj.AssemblyReference.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\PrototypeDesignPattern\obj\Debug\net6.0\PrototypeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\PrototypeDesignPattern\obj\Debug\net6.0\PrototypeDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\PrototypeDesignPattern\obj\Debug\net6.0\PrototypeDesignPattern.AssemblyInfo.cs
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\PrototypeDesignPattern\obj\Debug\net6.0\PrototypeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\PrototypeDesignPattern\obj\Debug\net6.0\PrototypeDesignPattern.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\PrototypeDesignPattern\obj\Debug\net6.0\ref\PrototypeDesignPattern.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\PrototypeDesignPattern\obj\Debug\net6.0\PrototypeDesignPattern.pdb
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\PrototypeDesignPattern\obj\Debug\net6.0\PrototypeDesignPattern.genruntimeconfig.cache

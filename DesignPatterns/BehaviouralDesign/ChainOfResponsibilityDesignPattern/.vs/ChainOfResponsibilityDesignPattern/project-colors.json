@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b36f25e9-7b43-4654-8722-6189d5da7cb1": {
+      "ProjectGuid": "b36f25e9-7b43-4654-8722-6189d5da7cb1",
+      "DisplayName": "ChainOfResponsibilityDesignPattern",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

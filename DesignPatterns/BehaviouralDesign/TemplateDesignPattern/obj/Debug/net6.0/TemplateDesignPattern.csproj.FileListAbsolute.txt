@@ -1,0 +1,14 @@
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\TemplateDesignPattern\bin\Debug\net6.0\TemplateDesignPattern.exe
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\TemplateDesignPattern\bin\Debug\net6.0\TemplateDesignPattern.deps.json
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\TemplateDesignPattern\bin\Debug\net6.0\TemplateDesignPattern.runtimeconfig.json
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\TemplateDesignPattern\bin\Debug\net6.0\TemplateDesignPattern.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\TemplateDesignPattern\bin\Debug\net6.0\ref\TemplateDesignPattern.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\TemplateDesignPattern\bin\Debug\net6.0\TemplateDesignPattern.pdb
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\TemplateDesignPattern\obj\Debug\net6.0\TemplateDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\TemplateDesignPattern\obj\Debug\net6.0\TemplateDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\TemplateDesignPattern\obj\Debug\net6.0\TemplateDesignPattern.AssemblyInfo.cs
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\TemplateDesignPattern\obj\Debug\net6.0\TemplateDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\TemplateDesignPattern\obj\Debug\net6.0\TemplateDesignPattern.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\TemplateDesignPattern\obj\Debug\net6.0\ref\TemplateDesignPattern.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\TemplateDesignPattern\obj\Debug\net6.0\TemplateDesignPattern.pdb
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\TemplateDesignPattern\obj\Debug\net6.0\TemplateDesignPattern.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a4005214-6994-4e66-a9db-a7d043aa2538": {
+      "ProjectGuid": "a4005214-6994-4e66-a9db-a7d043aa2538",
+      "DisplayName": "FlyWeightDesignPattern",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

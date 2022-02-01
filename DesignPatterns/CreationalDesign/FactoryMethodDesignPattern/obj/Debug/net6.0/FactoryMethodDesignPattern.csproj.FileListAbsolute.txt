@@ -1,0 +1,14 @@
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\FactoryMethodDesignPattern\bin\Debug\net6.0\FactoryMethodDesignPattern.exe
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\FactoryMethodDesignPattern\bin\Debug\net6.0\FactoryMethodDesignPattern.deps.json
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\FactoryMethodDesignPattern\bin\Debug\net6.0\FactoryMethodDesignPattern.runtimeconfig.json
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\FactoryMethodDesignPattern\bin\Debug\net6.0\FactoryMethodDesignPattern.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\FactoryMethodDesignPattern\bin\Debug\net6.0\ref\FactoryMethodDesignPattern.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\FactoryMethodDesignPattern\bin\Debug\net6.0\FactoryMethodDesignPattern.pdb
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\FactoryMethodDesignPattern\obj\Debug\net6.0\FactoryMethodDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\FactoryMethodDesignPattern\obj\Debug\net6.0\FactoryMethodDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\FactoryMethodDesignPattern\obj\Debug\net6.0\FactoryMethodDesignPattern.AssemblyInfo.cs
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\FactoryMethodDesignPattern\obj\Debug\net6.0\FactoryMethodDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\FactoryMethodDesignPattern\obj\Debug\net6.0\FactoryMethodDesignPattern.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\FactoryMethodDesignPattern\obj\Debug\net6.0\ref\FactoryMethodDesignPattern.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\FactoryMethodDesignPattern\obj\Debug\net6.0\FactoryMethodDesignPattern.pdb
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\FactoryMethodDesignPattern\obj\Debug\net6.0\FactoryMethodDesignPattern.genruntimeconfig.cache

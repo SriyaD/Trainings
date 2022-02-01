@@ -1,0 +1,5 @@
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\InterpreterDesignPattern\obj\Debug\net6.0\InterpreterDesignPattern.csproj.AssemblyReference.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\InterpreterDesignPattern\obj\Debug\net6.0\InterpreterDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\InterpreterDesignPattern\obj\Debug\net6.0\InterpreterDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\InterpreterDesignPattern\obj\Debug\net6.0\InterpreterDesignPattern.AssemblyInfo.cs
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\InterpreterDesignPattern\obj\Debug\net6.0\InterpreterDesignPattern.csproj.CoreCompileInputs.cache

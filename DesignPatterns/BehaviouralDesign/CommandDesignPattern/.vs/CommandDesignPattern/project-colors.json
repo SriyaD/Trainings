@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "48ec15c2-9817-4139-ae8c-40813205333f": {
+      "ProjectGuid": "48ec15c2-9817-4139-ae8c-40813205333f",
+      "DisplayName": "CommandDesignPattern",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

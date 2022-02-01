@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f5c6d5eb-bc15-4a4a-8856-e4b50b2a551b": {
+      "ProjectGuid": "f5c6d5eb-bc15-4a4a-8856-e4b50b2a551b",
+      "DisplayName": "BridgeDesignPattern",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

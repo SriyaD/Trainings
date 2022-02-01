@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e8176627-e0cb-497f-9d45-e539c65cbdba": {
+      "ProjectGuid": "e8176627-e0cb-497f-9d45-e539c65cbdba",
+      "DisplayName": "FacadeDesignPattern",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

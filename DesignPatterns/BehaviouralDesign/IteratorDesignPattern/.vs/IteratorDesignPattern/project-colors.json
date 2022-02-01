@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0651b7c2-e480-440d-9898-97c9bf2b8d4a": {
+      "ProjectGuid": "0651b7c2-e480-440d-9898-97c9bf2b8d4a",
+      "DisplayName": "IteratorDesignPattern",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

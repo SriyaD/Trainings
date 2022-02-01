@@ -1,0 +1,15 @@
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\SingletonDesignPattern\bin\Debug\net6.0\SingletonDesignPattern.exe
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\SingletonDesignPattern\bin\Debug\net6.0\SingletonDesignPattern.deps.json
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\SingletonDesignPattern\bin\Debug\net6.0\SingletonDesignPattern.runtimeconfig.json
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\SingletonDesignPattern\bin\Debug\net6.0\SingletonDesignPattern.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\SingletonDesignPattern\bin\Debug\net6.0\ref\SingletonDesignPattern.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\SingletonDesignPattern\bin\Debug\net6.0\SingletonDesignPattern.pdb
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\SingletonDesignPattern\obj\Debug\net6.0\SingletonDesignPattern.csproj.AssemblyReference.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\SingletonDesignPattern\obj\Debug\net6.0\SingletonDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\SingletonDesignPattern\obj\Debug\net6.0\SingletonDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\SingletonDesignPattern\obj\Debug\net6.0\SingletonDesignPattern.AssemblyInfo.cs
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\SingletonDesignPattern\obj\Debug\net6.0\SingletonDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\SingletonDesignPattern\obj\Debug\net6.0\SingletonDesignPattern.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\SingletonDesignPattern\obj\Debug\net6.0\ref\SingletonDesignPattern.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\SingletonDesignPattern\obj\Debug\net6.0\SingletonDesignPattern.pdb
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\SingletonDesignPattern\obj\Debug\net6.0\SingletonDesignPattern.genruntimeconfig.cache

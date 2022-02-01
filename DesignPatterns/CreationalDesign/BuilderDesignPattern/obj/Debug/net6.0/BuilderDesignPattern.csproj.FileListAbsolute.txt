@@ -1,0 +1,15 @@
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\BuilderDesignPattern\bin\Debug\net6.0\BuilderDesignPattern.exe
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\BuilderDesignPattern\bin\Debug\net6.0\BuilderDesignPattern.deps.json
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\BuilderDesignPattern\bin\Debug\net6.0\BuilderDesignPattern.runtimeconfig.json
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\BuilderDesignPattern\bin\Debug\net6.0\BuilderDesignPattern.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\BuilderDesignPattern\bin\Debug\net6.0\ref\BuilderDesignPattern.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\BuilderDesignPattern\bin\Debug\net6.0\BuilderDesignPattern.pdb
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\BuilderDesignPattern\obj\Debug\net6.0\BuilderDesignPattern.csproj.AssemblyReference.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\BuilderDesignPattern\obj\Debug\net6.0\BuilderDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\BuilderDesignPattern\obj\Debug\net6.0\BuilderDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\BuilderDesignPattern\obj\Debug\net6.0\BuilderDesignPattern.AssemblyInfo.cs
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\BuilderDesignPattern\obj\Debug\net6.0\BuilderDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\BuilderDesignPattern\obj\Debug\net6.0\BuilderDesignPattern.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\BuilderDesignPattern\obj\Debug\net6.0\ref\BuilderDesignPattern.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\BuilderDesignPattern\obj\Debug\net6.0\BuilderDesignPattern.pdb
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\CreationalDesign\BuilderDesignPattern\obj\Debug\net6.0\BuilderDesignPattern.genruntimeconfig.cache

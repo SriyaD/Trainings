@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b58c022d-7afa-4bb6-ac22-06adac5656ac": {
+      "ProjectGuid": "b58c022d-7afa-4bb6-ac22-06adac5656ac",
+      "DisplayName": "TemplateDesignPattern",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

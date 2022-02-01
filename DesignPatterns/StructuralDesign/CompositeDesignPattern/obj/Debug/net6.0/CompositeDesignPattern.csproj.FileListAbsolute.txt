@@ -1,0 +1,14 @@
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\StructuralDesign\CompositeDesignPattern\bin\Debug\net6.0\CompositeDesignPattern.exe
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\StructuralDesign\CompositeDesignPattern\bin\Debug\net6.0\CompositeDesignPattern.deps.json
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\StructuralDesign\CompositeDesignPattern\bin\Debug\net6.0\CompositeDesignPattern.runtimeconfig.json
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\StructuralDesign\CompositeDesignPattern\bin\Debug\net6.0\CompositeDesignPattern.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\StructuralDesign\CompositeDesignPattern\bin\Debug\net6.0\ref\CompositeDesignPattern.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\StructuralDesign\CompositeDesignPattern\bin\Debug\net6.0\CompositeDesignPattern.pdb
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\StructuralDesign\CompositeDesignPattern\obj\Debug\net6.0\CompositeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\StructuralDesign\CompositeDesignPattern\obj\Debug\net6.0\CompositeDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\StructuralDesign\CompositeDesignPattern\obj\Debug\net6.0\CompositeDesignPattern.AssemblyInfo.cs
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\StructuralDesign\CompositeDesignPattern\obj\Debug\net6.0\CompositeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\StructuralDesign\CompositeDesignPattern\obj\Debug\net6.0\CompositeDesignPattern.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\StructuralDesign\CompositeDesignPattern\obj\Debug\net6.0\ref\CompositeDesignPattern.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\StructuralDesign\CompositeDesignPattern\obj\Debug\net6.0\CompositeDesignPattern.pdb
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\StructuralDesign\CompositeDesignPattern\obj\Debug\net6.0\CompositeDesignPattern.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\StructuralDesign\AdapterDesignPattern\bin\Debug\net6.0\AdapterDesignPattern.exe
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\StructuralDesign\AdapterDesignPattern\bin\Debug\net6.0\AdapterDesignPattern.deps.json
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\StructuralDesign\AdapterDesignPattern\bin\Debug\net6.0\AdapterDesignPattern.runtimeconfig.json
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\StructuralDesign\AdapterDesignPattern\bin\Debug\net6.0\AdapterDesignPattern.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\StructuralDesign\AdapterDesignPattern\bin\Debug\net6.0\ref\AdapterDesignPattern.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\StructuralDesign\AdapterDesignPattern\bin\Debug\net6.0\AdapterDesignPattern.pdb
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\StructuralDesign\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.csproj.AssemblyReference.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\StructuralDesign\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\StructuralDesign\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\StructuralDesign\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.AssemblyInfo.cs
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\StructuralDesign\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\StructuralDesign\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\StructuralDesign\AdapterDesignPattern\obj\Debug\net6.0\ref\AdapterDesignPattern.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\StructuralDesign\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.pdb
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\StructuralDesign\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.genruntimeconfig.cache

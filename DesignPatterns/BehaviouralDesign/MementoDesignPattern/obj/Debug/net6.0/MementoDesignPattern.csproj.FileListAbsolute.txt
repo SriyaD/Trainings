@@ -1,0 +1,14 @@
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\MementoDesignPattern\bin\Debug\net6.0\MementoDesignPattern.exe
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\MementoDesignPattern\bin\Debug\net6.0\MementoDesignPattern.deps.json
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\MementoDesignPattern\bin\Debug\net6.0\MementoDesignPattern.runtimeconfig.json
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\MementoDesignPattern\bin\Debug\net6.0\MementoDesignPattern.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\MementoDesignPattern\bin\Debug\net6.0\ref\MementoDesignPattern.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\MementoDesignPattern\bin\Debug\net6.0\MementoDesignPattern.pdb
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\MementoDesignPattern\obj\Debug\net6.0\MementoDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\MementoDesignPattern\obj\Debug\net6.0\MementoDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\MementoDesignPattern\obj\Debug\net6.0\MementoDesignPattern.AssemblyInfo.cs
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\MementoDesignPattern\obj\Debug\net6.0\MementoDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\MementoDesignPattern\obj\Debug\net6.0\MementoDesignPattern.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\MementoDesignPattern\obj\Debug\net6.0\ref\MementoDesignPattern.dll
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\MementoDesignPattern\obj\Debug\net6.0\MementoDesignPattern.pdb
+C:\Users\Sriya_Datla\Desktop\epam .net\DesignPatterns\BehaviouralDesign\MementoDesignPattern\obj\Debug\net6.0\MementoDesignPattern.genruntimeconfig.cache
