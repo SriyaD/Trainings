@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7a41a2d6-f77f-4e5f-8cd7-6d5da0ec18c2": {
+      "ProjectGuid": "7a41a2d6-f77f-4e5f-8cd7-6d5da0ec18c2",
+      "DisplayName": "ConnectedCrud",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

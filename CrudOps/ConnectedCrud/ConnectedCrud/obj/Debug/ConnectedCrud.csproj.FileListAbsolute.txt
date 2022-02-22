@@ -1,0 +1,11 @@
+C:\Users\Sriya_Datla\Desktop\epam .net\ConnectedCrud\ConnectedCrud\bin\Debug\ConnectedCrud.exe.config
+C:\Users\Sriya_Datla\Desktop\epam .net\ConnectedCrud\ConnectedCrud\bin\Debug\ConnectedCrud.exe
+C:\Users\Sriya_Datla\Desktop\epam .net\ConnectedCrud\ConnectedCrud\bin\Debug\ConnectedCrud.pdb
+C:\Users\Sriya_Datla\Desktop\epam .net\ConnectedCrud\ConnectedCrud\obj\Debug\ConnectedCrud.csproj.AssemblyReference.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\ConnectedCrud\ConnectedCrud\obj\Debug\ConnectedCrud.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\ConnectedCrud\ConnectedCrud\obj\Debug\ConnectedCrud.Form1.resources
+C:\Users\Sriya_Datla\Desktop\epam .net\ConnectedCrud\ConnectedCrud\obj\Debug\ConnectedCrud.Properties.Resources.resources
+C:\Users\Sriya_Datla\Desktop\epam .net\ConnectedCrud\ConnectedCrud\obj\Debug\ConnectedCrud.csproj.GenerateResource.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\ConnectedCrud\ConnectedCrud\obj\Debug\ConnectedCrud.csproj.CoreCompileInputs.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\ConnectedCrud\ConnectedCrud\obj\Debug\ConnectedCrud.exe
+C:\Users\Sriya_Datla\Desktop\epam .net\ConnectedCrud\ConnectedCrud\obj\Debug\ConnectedCrud.pdb
