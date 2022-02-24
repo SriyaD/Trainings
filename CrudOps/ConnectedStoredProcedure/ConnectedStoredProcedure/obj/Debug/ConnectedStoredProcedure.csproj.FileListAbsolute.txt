@@ -1,0 +1,11 @@
+C:\Users\Sriya_Datla\Desktop\epam .net\ConnectedStoredProcedure\ConnectedStoredProcedure\bin\Debug\ConnectedStoredProcedure.exe.config
+C:\Users\Sriya_Datla\Desktop\epam .net\ConnectedStoredProcedure\ConnectedStoredProcedure\bin\Debug\ConnectedStoredProcedure.exe
+C:\Users\Sriya_Datla\Desktop\epam .net\ConnectedStoredProcedure\ConnectedStoredProcedure\bin\Debug\ConnectedStoredProcedure.pdb
+C:\Users\Sriya_Datla\Desktop\epam .net\ConnectedStoredProcedure\ConnectedStoredProcedure\obj\Debug\ConnectedStoredProcedure.csproj.AssemblyReference.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\ConnectedStoredProcedure\ConnectedStoredProcedure\obj\Debug\ConnectedStoredProcedure.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\ConnectedStoredProcedure\ConnectedStoredProcedure\obj\Debug\ConnectedStoredProcedure.Form1.resources
+C:\Users\Sriya_Datla\Desktop\epam .net\ConnectedStoredProcedure\ConnectedStoredProcedure\obj\Debug\ConnectedStoredProcedure.Properties.Resources.resources
+C:\Users\Sriya_Datla\Desktop\epam .net\ConnectedStoredProcedure\ConnectedStoredProcedure\obj\Debug\ConnectedStoredProcedure.csproj.GenerateResource.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\ConnectedStoredProcedure\ConnectedStoredProcedure\obj\Debug\ConnectedStoredProcedure.csproj.CoreCompileInputs.cache
+C:\Users\Sriya_Datla\Desktop\epam .net\ConnectedStoredProcedure\ConnectedStoredProcedure\obj\Debug\ConnectedStoredProcedure.exe
+C:\Users\Sriya_Datla\Desktop\epam .net\ConnectedStoredProcedure\ConnectedStoredProcedure\obj\Debug\ConnectedStoredProcedure.pdb
