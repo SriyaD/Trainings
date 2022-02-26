@@ -59,12 +59,21 @@ namespace ConnectedStoredProcedure
         }
         void display()
         {
-            con.Open();
-            SqlCommand cmd = new SqlCommand("exec DisplayEmp_SP", con);
+            //con.Open();
+            //SqlCommand cmd = new SqlCommand("exec DisplayEmp_SP", con);
+            //SqlDataAdapter sa = new SqlDataAdapter(cmd);
+
+            if(con.State == ConnectionState.Closed)
+            {
+                con.Open();
+            }
+            SqlCommand cmd = new SqlCommand("DisplayEmp_SP", con);
+            cmd.CommandType = CommandType.StoredProcedure;
             SqlDataAdapter sa = new SqlDataAdapter(cmd);
+            con.Close();
             DataTable dt = new DataTable();
             sa.Fill(dt);
-            con.Close();
+           
             dg.DataSource = dt;
 
         }
@@ -107,21 +116,47 @@ namespace ConnectedStoredProcedure
                     sex = "Female";
                 }
                 String EmpMobile = txtMobile.Text;
+            //con.Open();
+            //SqlCommand cmd = new SqlCommand("exec UpdateEmp_SP '" + EmpId + "', '" + EmpName + "','" + EmpAge + "', '" + sex + "',  '" + EmpMobile + "' ", con);
+            //cmd.ExecuteNonQuery();
+            //con.Close();
 
-                con.Open();
-                SqlCommand cmd = new SqlCommand("exec UpdateEmp_SP '" + EmpId + "', '" + EmpName + "','" + EmpAge + "', '" + sex + "',  '" + EmpMobile + "' ", con);
-                cmd.ExecuteNonQuery();
-                con.Close();
-
-                MessageBox.Show("Successfully Updated");
-                display();
-                ClearAll();
+            //MessageBox.Show("Successfully Updated");
+            //display();
+            //ClearAll();
             //}
             //else
             //{
             //    MessageBox.Show("Please Select a Employee to update", "Select", MessageBoxButtons.OK, MessageBoxIcon.Information);
             //}
-           
+
+
+
+            if (con.State == ConnectionState.Closed)
+            {
+                con.Open();
+            }
+            DataTable dt = new DataTable();
+            SqlCommand cmd = new SqlCommand("UpdateEmp_SP", con);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.AddWithValue("@EmpId", EmpId);
+            cmd.Parameters.AddWithValue("@EmpName", EmpName);
+            cmd.Parameters.AddWithValue("@EmpAge", EmpAge);
+            cmd.Parameters.AddWithValue("@EmpGender", EmpId);
+            cmd.Parameters.AddWithValue("@EmpMobile", EmpMobile);
+            //con.Open();
+            int num = cmd.ExecuteNonQuery();
+            if (num > 0)
+            {
+                display();
+                MessageBox.Show("Updated Inserted");
+                ClearAll();
+            }
+            else
+            {
+                MessageBox.Show("Not Updated");
+            }
+            con.Close();
         }
 
         private void dg_CellClick(object sender, DataGridViewCellEventArgs e)
@@ -153,15 +188,37 @@ namespace ConnectedStoredProcedure
 
         private void button4_Click(object sender, EventArgs e)
         {
-            int EmpId = int.Parse(txtId.Text);
-            con.Open();
-            SqlCommand cmd = new SqlCommand("exec DeleteEmpl_SP '" + EmpId + "'", con);
-            cmd.ExecuteNonQuery();
-            con.Close();
+            //int EmpId = int.Parse(txtId.Text);
+            //con.Open();
+            //SqlCommand cmd = new SqlCommand("exec DeleteEmpl_SP '" + EmpId + "'", con);
+            //cmd.ExecuteNonQuery();
+            //con.Close();
 
-            MessageBox.Show("Successfully Deleted");
-            display();
-            ClearAll();
+            //MessageBox.Show("Successfully Deleted");
+            //display();
+            //ClearAll();
+
+
+            if (con.State == ConnectionState.Closed)
+            {
+                con.Open();
+            }
+            int EmpId = int.Parse(txtId.Text);
+            SqlCommand cmd = new SqlCommand("DeleteEmpl_SP", con);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.AddWithValue("@EmpId", EmpId);
+            int num = cmd.ExecuteNonQuery();
+            if (num > 0)
+            {
+                display();
+                MessageBox.Show("Deleted");
+                ClearAll();
+            }
+            else
+            {
+                MessageBox.Show("Not Deleted");
+            }
+            con.Close();
         }
 
         private void btn_Insert(object sender, EventArgs e)
@@ -180,14 +237,48 @@ namespace ConnectedStoredProcedure
             }
             String EmpMobile = txtMobile.Text;
 
-            con.Open();
-            SqlCommand cmd = new SqlCommand("exec InsertEmp_SP '" + EmpId + "', '" + EmpName + "','" + EmpAge + "', '" + sex + "',  '" + EmpMobile + "' ", con);
-            cmd.ExecuteNonQuery();
-            con.Close();
+            //con.Open();
+            //SqlCommand cmd = new SqlCommand("exec InsertEmp_SP '" + EmpId + "', '" + EmpName + "','" + EmpAge + "', '" + sex + "',  '" + EmpMobile + "' ", con);
+            //cmd.ExecuteNonQuery();
+            //con.Close();
 
-            MessageBox.Show("Successfully Inserted");
-            display();
-            ClearAll();
+            //MessageBox.Show("Successfully Inserted");
+            //display();
+            //ClearAll();
+
+            DataTable dt = new DataTable();
+            SqlCommand cmd = new SqlCommand("InsertEmp_SP", con);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.AddWithValue("@EmpId", EmpId);
+            cmd.Parameters.AddWithValue("@EmpName", EmpName);
+            cmd.Parameters.AddWithValue("@EmpAge", EmpAge);
+            cmd.Parameters.AddWithValue("@EmpGender", EmpId);
+            cmd.Parameters.AddWithValue("@EmpMobile", EmpMobile);
+            con.Open();
+            int num=cmd.ExecuteNonQuery();
+            if(num > 0)
+            {
+                display();
+                MessageBox.Show("Successfully Inserted");
+                ClearAll();
+            }
+            else
+            {
+                MessageBox.Show("NotInserted");
+            }
+            con.Close();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            DataTable dt = new DataTable();
+            con.Open();
+            string query = string.Format("select EmpId, EmpName from Employee where EmpId = {0}", txtId.Text);
+            SqlCommand cmd = new SqlCommand(query, con);
+            SqlDataAdapter sa = new SqlDataAdapter(cmd);    
+            sa.Fill(dt);    
+            dg.DataSource = dt;
+            con.Close();
         }
     }
 }
